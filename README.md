@@ -1,4 +1,4 @@
-# 🌸 Yokitha R — Portfolio
+# Yokitha R — Portfolio
 
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience in software development.
@@ -28,7 +28,7 @@ I’m interested in software development and building real-world applications.
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in browser
